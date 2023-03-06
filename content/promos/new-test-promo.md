@@ -6,7 +6,7 @@ image:
   website: ocw-www
 link_title: test
 link_url: test
-subtitle: test
+subtitle: test test
 title: New Test Promo
 uid: 7addeab7-d663-4d1f-9a12-456a9854c31b
 ---
