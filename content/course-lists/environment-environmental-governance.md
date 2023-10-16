@@ -11,8 +11,8 @@ courses:
   title: Global Cityscope - Disaster Planning and Post-Disaster Rebuilding and Recovery
 - id: courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014
   title: Big Plans and Mega-Urban Landscapes
-- id: courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011
-  title: Infrastructure and Energy Technology Challenges
+- id: courses/11-165j-urban-energy-systems-and-policy-fall-2022
+  title: Urban Energy Systems and Policy
 - id: courses/11-364-international-environmental-negotiation-fall-2010
   title: International Environmental Negotiation
 - id: courses/11-366j-planning-for-sustainable-development-spring-2006

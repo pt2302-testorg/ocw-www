@@ -5,6 +5,8 @@ courses:
   title: Introduction to Civil and Environmental Engineering Design I
 - id: courses/1-258j-public-transportation-systems-spring-2017
   title: Public Transportation Systems
+- id: courses/11-165j-urban-energy-systems-and-policy-fall-2022
+  title: Urban Energy Systems and Policy
 - id: courses/1-252j-urban-transportation-planning-fall-2016
   title: Urban Transportation Planning
 - id: courses/1-731-water-resource-systems-fall-2006
