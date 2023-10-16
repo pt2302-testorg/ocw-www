@@ -11,6 +11,6 @@ courses:
   title: Healthcare Finance (15.482x)
 description: ''
 draft: false
-title: Open Learning Library Featured
+title: MIT Open Learning Library Featured
 uid: 770173e6-4007-47a5-886e-699ae38083e1
 ---

@@ -9,7 +9,7 @@ courselists:
 cover-image:
   content: 9153355c-44bf-48bc-8e0f-1c63395b1c49
   website: ocw-www
-description: "\_\n\nPhoto by Flickr user [Changhua Coast Conservation Action](http://www.flickr.com/photos/waders/).\n\
+description: "Photo by Flickr user [Changhua Coast Conservation Action](http://www.flickr.com/photos/waders/).\n\
   \nSeeking to understand and transform the world\u2019s energy systems, MIT researchers\
   \ and students investigate all aspects of energy. They discover new ways of generating\
   \ and storing energy, as in creating biofuels from plant waste and in holding electricity\
@@ -28,6 +28,7 @@ description: "\_\n\nPhoto by Flickr user [Changhua Coast Conservation Action](ht
   \ OCW, and listed below. In addition to its core and elective courses, some\_other\
   \ energy courses\_which are not officially part of the Energy Minor program are\
   \ also listed."
+draft: false
 featured-courses:
   content: 817983ee-5846-4125-9a45-24b06cc8c88f
   website: ocw-www
