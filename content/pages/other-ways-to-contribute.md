@@ -12,7 +12,7 @@ Donations are vital to sustaining OpenCourseWare for the future, but financial s
 
 ### **Share your story**
 
-Your experience helps us demonstrate the global impact of OCW. [Share how the site has made a difference in your life or classroom.](https://forms.gle/LvmpocNJBujDafqt9  )
+Your experience helps us demonstrate the global impact of OCW. \[Share how the site has made a difference in your life or classroom.\]([https://forms.gle/LvmpocNJBujDafqt9](https://forms.gle/LvmpocNJBujDafqt9) )
 
 ### **Spread the word**
 
@@ -24,4 +24,4 @@ There are many ways to help get the word out about the free resources available 
 
 ### **Encourage your company to sponsor OCW**
 
-OCW is a great sponsorship opportunity for companies who support knowledge as a public good. [Learn more](https://ocw.mit.edu/support/?utm_source=ocw&utm_medium=otherways_support&utm_campaign=textlink).
+OCW is a great sponsorship opportunity for companies who support knowledge as a public good. [Learn more](https://ocw.mit.edu/pages/become-a-corporate-sponsor/).
