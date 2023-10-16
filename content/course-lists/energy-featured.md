@@ -1,7 +1,7 @@
 ---
 content_type: course-lists
 courses:
-- id: courses/11-165j-urban-energy-systems-and-policy-fall-2021
+- id: courses/11-165j-urban-energy-systems-and-policy-fall-2022
   title: Urban Energy Systems and Policy
 - id: courses/4-401-environmental-technologies-in-buildings-fall-2018
   title: Environmental Technologies in Buildings

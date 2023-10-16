@@ -16,9 +16,13 @@ courselists:
 cover-image:
   content: 46f5179a-ed60-48bb-8b32-2540407ef8bd
   website: ocw-www
-description: '[Transportation@MIT](http://transportation.mit.edu/) is a coordinated
-  effort to address one of civilization''s most pressing challenges: the environmental
-  impact of the world''s ever-increasing demand for transportation.
+description: 'Photo by [windsordi](http://www.flickr.com/photos/windsordi/4972633078/)
+  on Flickr.
+
+
+  [Transportation@MIT](http://transportation.mit.edu/) is a coordinated effort to
+  address one of civilization''s most pressing challenges: the environmental impact
+  of the world''s ever-increasing demand for transportation.
 
 
   Hundreds of MIT faculty members work in areas related to transportation, from motor
@@ -29,6 +33,7 @@ description: '[Transportation@MIT](http://transportation.mit.edu/) is a coordina
   The Transportation@MIT initiative knits together the wide-ranging, robust research
   already under way at the Institute and creates new opportunities for education and
   innovation.'
+draft: false
 featured-courses:
   content: 36c4e2a0-b0ea-4f3b-9f44-63a937813625
   website: ocw-www

@@ -1,5 +1,6 @@
 ---
 content_type: stories
+draft: true
 image:
   content: d87cf5ea-7267-4b03-bd97-686ca140c100
   website: ocw-www
