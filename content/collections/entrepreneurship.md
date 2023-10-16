@@ -8,17 +8,16 @@ courselists:
 cover-image:
   content: ae2764cf-b089-4524-9d85-f4d77058ae6f
   website: ocw-www
-description: "Massachusetts Institute of Technology has always been associated with\
-  \ major scientific and technological breakthroughs. But the breakthroughs alone\
-  \ do not explain the impact that MIT has had on the world. For that we have to look\
-  \ at entrepreneurship, which starts with the \"Mens et Manus\" (Mind and Hand) slogan\
-  \ on the Great Seal of MIT. For faculty, students, and alumni, MIT is all about\
-  \ making discoveries and inventions and then applying these discoveries and inventions\
-  \ to solve real problems. In a very tangible way, MIT faculty and graduates invent\
-  \ the future, and entrepreneurship\u2014the building of new businesses\u2014is often\
-  \ the road to that future.\_\n\n![Title screen from the video, 'The Ecosystem: Nurturing\
-  \ Entrepreneurship at MIT'.](https://ocw.mit.edu/courses/entrepreneurship/ecosystem_slate2.png)\
-  \ \_\_  \n[Watch this video introduction](https://www.youtube.com/watch?v=WSkDqpBctfA)\
+description: "Photo by Flickr user [DustyReagan](http://www.flickr.com/photos/dustyreagan/).\n\
+  \nMassachusetts Institute of Technology has always been associated with major scientific\
+  \ and technological breakthroughs. But the breakthroughs alone do not explain the\
+  \ impact that MIT has had on the world. For that we have to look at entrepreneurship,\
+  \ which starts with the \"Mens et Manus\" (Mind and Hand) slogan on the Great Seal\
+  \ of MIT. For faculty, students, and alumni, MIT is all about making discoveries\
+  \ and inventions and then applying these discoveries and inventions to solve real\
+  \ problems. In a very tangible way, MIT faculty and graduates invent the future,\
+  \ and entrepreneurship\u2014the building of new businesses\u2014is often the road\
+  \ to that future.\_\n\n[Watch this video introduction](https://www.youtube.com/watch?v=WSkDqpBctfA)\
   \ to entrepreneurship at MIT.\n\nThe report \u201C[Entrepreneurship and Innovation\
   \ at MIT](http://web.mit.edu/innovate/entrepreneurship2015.pdf)\u201D examines the\
   \ impact of MIT graduates who have founded and built for-profit companies. The report\
@@ -33,11 +32,12 @@ description: "Massachusetts Institute of Technology has always been associated w
   \ once the basics have been mastered\n\nThose interested in a general introduction\
   \ to entrepreneurship as taught at MIT should visit [*15.390 New Enterprises*](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013)\
   \ and [*15.S21 Nuts and Bolts of Business Plans*](https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014).\
-  \ Both courses have video resources.\_\_\_  \n[Watch this video introduction](https://www.youtube.com/watch?v=WSkDqpBctfA)\
+  \ Both courses have video resources.\_\_\_\_\_\_  \n[Watch this video introduction](https://www.youtube.com/watch?v=WSkDqpBctfA)\
   \ to entrepreneurship at MIT.\n\nThose interested in a general introduction to entrepreneurship\
   \ as taught at MIT should visit [*15.390 New Enterprises*](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013)\
   \ and [*15.S21 Nuts and Bolts of Business Plans*](https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014).\
   \ Both courses have video resources."
+draft: false
 featured-courses:
   content: 172f0495-728d-44a8-bae5-1fdc7ff3e042
   website: ocw-www
