@@ -7,8 +7,6 @@ courses:
   title: Energy Decisions, Markets, and Policies
 - id: courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010
   title: Engineering, Economics and Regulation of the Electric Power Sector
-- id: courses/7-347-fueling-sustainability-engineering-microbial-systems-for-biofuel-production-spring-2011
-  title: 'Fueling Sustainability: Engineering Microbial Systems for Biofuel Production'
 - id: courses/21h-207-the-energy-crisis-past-and-present-fall-2010
   title: 'The Energy Crisis: Past and Present'
 - id: courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006
